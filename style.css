@@ -235,14 +235,14 @@ body {
   /* Media query para pantallas pequeñas (celulares) */
   @media (max-width: 768px) {
     .logo img {
-      width: 56%; /* Ocupa casi todo el ancho */
+      width: 50%; /* Ocupa casi todo el ancho */
       max-height: 40vh; /* Limita la altura al 60% de la vista */
     }
   
     .animated-text,
     .prospero-año-nuevo,
     .paz {
-      font-size: 0.9rem; /* Ajusta el tamaño del texto para móviles */
+      font-size: 1rem; /* Ajusta el tamaño del texto para móviles */
     }
   }
   
